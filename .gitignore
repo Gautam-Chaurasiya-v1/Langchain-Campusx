@@ -1,2 +1,16 @@
 **/.venv/
 **/.env
+
+# macOS
+.DS_Store
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
